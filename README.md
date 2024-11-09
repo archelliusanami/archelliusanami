@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on using data science to solve biological problems
 - 📫 How to reach me archelliusanami@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: *Am good at listening *
+- ⚡ Fun fact: **Am good at listening**
 
 <!---
 archelliusanami/archelliusanami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
